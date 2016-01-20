@@ -1,0 +1,14 @@
+{
+    "name": "pleio/pages_tools",
+    "description": "Different additions/modifications to the pages plugin.",
+    "type": "elgg-plugin",
+    "keywords": ["elgg", "plugin", "pages"],
+    "license": "GPL-2.0",
+    "support": {
+        "source": "https://github.com/Pleio/pages_tools",
+        "issues": "https://github.com/Pleio/pages_tools/issues"
+    },
+    "require": {
+        "composer/installers": "^1.0.8"
+    }
+}
